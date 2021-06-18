@@ -1,0 +1,438 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.5)  12 MAY 2021 19:16
+entering extended mode
+**./TRADUCCIONFINAL.tex
+(TRADUCCIONFINAL.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> xparse <2020-03-03> (llncs.cls
+Document Class: llncs 2018/03/10 v2.20 
+ LaTeX document class for Lecture Notes in Computer Science
+(C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\multicol.
+sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count187
+\mult@box=\box47
+\multicol@leftmargin=\dimen139
+\c@unbalance=\count188
+\c@collectmore=\count189
+\doublecol@number=\count190
+\multicoltolerance=\count191
+\multicolpretolerance=\count192
+\full@width=\dimen140
+\page@free=\dimen141
+\premulticols=\dimen142
+\postmulticols=\dimen143
+\multicolsep=\skip49
+\multicolbaselineskip=\skip50
+\partial@page=\box48
+\last@line=\box49
+\maxbalancingoverflow=\dimen144
+\mult@rightbox=\box50
+\mult@grightbox=\box51
+\mult@gfirstbox=\box52
+\mult@firstbox=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\c@minrows=\count193
+\c@columnbadness=\count194
+\c@finalcolumnbadness=\count195
+\last@try=\dimen145
+\multicolovershoot=\dimen146
+\multicolundershoot=\dimen147
+\mult@nat@firstbox=\box91
+\colbreak@box=\box92
+\mc@col@check@num=\count196
+)
+(C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/oberdiek\aliascnt.sty
+Package: aliascnt 2018/09/07 v1.5 Alias counters (HO)
+)
+\c@chapter=\count197
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 362.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 363.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 364.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 365.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 366.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 367.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 368.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 369.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 370.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 371.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 372.
+\tocchpnum=\dimen148
+\tocsecnum=\dimen149
+\tocsectotal=\dimen150
+\tocsubsecnum=\dimen151
+\tocsubsectotal=\dimen152
+\tocsubsubsecnum=\dimen153
+\tocsubsubsectotal=\dimen154
+\tocparanum=\dimen155
+\tocparatotal=\dimen156
+\tocsubparanum=\dimen157
+\@tempcntc=\count198
+\fnindent=\dimen158
+\c@@inst=\count199
+\c@@auth=\count266
+\c@auco=\count267
+\instindent=\dimen159
+\authrun=\box93
+\authorrunning=\toks15
+\tocauthor=\toks16
+\titrun=\box94
+\titlerunning=\toks17
+\toctitle=\toks18
+\c@theorem=\count268
+\c@case=\count269
+\c@conjecture=\count270
+\c@corollary=\count271
+\c@definition=\count272
+\c@example=\count273
+\c@exercise=\count274
+\c@lemma=\count275
+\c@note=\count276
+\c@problem=\count277
+\c@property=\count278
+\c@proposition=\count279
+\c@question=\count280
+\c@solution=\count281
+\c@remark=\count282
+\headlineindent=\dimen160
+) (C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+)
+(C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks19
+\inpenc@posthook=\toks20
+)
+(C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2021/01/26 3.53 The Babel package
+
+(C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2021/01/26 3.53 Babel common definitions
+\babel@savecnt=\count283
+\U@D=\dimen161
+\l@babelnohyphens=\language79
+
+(C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count284
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish
+.ldf
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+\es@quottoks=\toks21
+\es@quotdepth=\count285
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+(C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+(C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+(C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+(C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics
+.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.d
+ef
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen162
+\Gin@req@width=\dimen163
+)
+(C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-p
+dftex.def
+File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count286
+\l__pdf_internal_box=\box95
+) (TRADUCCIONFINAL.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+)
+\openout1 = `TRADUCCIONFINAL.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Info: Redefining \. on input line 11.
+LaTeX Info: Redefining \% on input line 11.
+
+(C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.
+mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count287
+\scratchdimen=\dimen164
+\scratchbox=\box96
+\nofMPsegments=\count288
+\nofMParguments=\count289
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count290
+\MPscratchDim=\dimen165
+\MPnumerator=\count291
+\makeMPintoPDFobject=\count292
+\everyMPtoPDFconversion=\toks24
+)
+(C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf
+-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 19.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 19.
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--37
+
+ []
+
+[1
+
+{C:/Users/Usuario/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--47
+
+ []
+
+LaTeX Info: Redefining \. on input line 47.
+LaTeX Info: Redefining \% on input line 47.
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+
+ []
+
+LaTeX Info: Redefining \. on input line 58.
+LaTeX Info: Redefining \% on input line 58.
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--63
+
+ []
+
+LaTeX Info: Redefining \. on input line 63.
+LaTeX Info: Redefining \% on input line 63.
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--68
+
+ []
+
+
+Underfull \vbox (badness 2158) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 68.
+LaTeX Info: Redefining \% on input line 68.
+ [5]
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 72--72
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 75.
+LaTeX Info: Redefining \% on input line 75.
+ [6]
+Underfull \hbox (badness 10000) in paragraph at lines 76--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--86
+
+ []
+
+LaTeX Info: Redefining \. on input line 89.
+LaTeX Info: Redefining \% on input line 89.
+[7] (TRADUCCIONFINAL.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+) ) 
+Here is how much of TeX's memory you used:
+ 2999 strings out of 479334
+ 41967 string characters out of 2856135
+ 360395 words of memory out of 3000000
+ 20457 multiletter control sequences out of 15000+200000
+ 411384 words of font info for 38 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 68i,5n,74p,1109b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Usuario\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\e
+crm0700.pk> <C:\Users\Usuario\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/
+dpi600\ecti1000.pk> <C:\Users\Usuario\AppData\Local\MiKTeX\fonts/pk/ljfour/jkna
+ppen/ec/dpi600\ecbx1000.pk> <C:\Users\Usuario\AppData\Local\MiKTeX\fonts/pk/ljf
+our/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Usuario\AppData\Local\MiKTeX\font
+s/pk/ljfour/jknappen/ec/dpi600\tcrm0900.pk> <C:\Users\Usuario\AppData\Local\MiK
+TeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0900.pk> <C:\Users\Usuario\AppData\L
+ocal\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\Usuario\A
+ppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\U
+suario\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk>
+Output written on TRADUCCIONFINAL.pdf (7 pages, 100664 bytes).
+PDF statistics:
+ 296 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
